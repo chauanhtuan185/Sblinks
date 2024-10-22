@@ -1,4 +1,4 @@
-# Sblinks - new experience for user in Kaia and EVM , re-thinking how to interact with Dapp directly in XIntroduction
+# Sblinks - new experience for user in Kaia and EVM , re-thinking how to interact with Dapp directly in X
 
 ### Introduction
 
