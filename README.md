@@ -19,3 +19,7 @@ To enable embedding your Dapp on platforms like Twitter, you need to add the fol
 <meta property="og:description" content="test" />
 <meta property="og:image" content="https://app.ekubo.org/pwa-512x512.png" />
 ```
+### Demo video
+
+https://github.com/user-attachments/assets/93124ea7-65b4-4c78-9ec8-c46e27343e28
+
